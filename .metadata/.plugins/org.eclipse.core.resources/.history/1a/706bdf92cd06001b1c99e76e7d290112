@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#hider").click(function(){
+		$("span").hide("slow");
+	});
+	$("#shower").click(function(){
+		$("span").show(2000,function(){
+			$("#red").css("font-size","30px");
+		});
+	});
+});
+</script>
+</head>
+<body>
+<button id="hider">hider</button>
+<button id="shower">shower</button>
+<div>
+<span>홍길동</span> <span>이순신</span>
+<span id = "red">위인들...</span>
+</div>
+</body>
+</html>

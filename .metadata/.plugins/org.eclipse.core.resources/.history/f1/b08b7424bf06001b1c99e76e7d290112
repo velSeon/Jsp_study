@@ -1,0 +1,15 @@
+package com.dto;
+
+public class GoodsDTO {
+
+	private String gCode;
+	private String gCategory;
+	private String gName;
+	private String gContent;
+	private int gPrice;
+	private String gImage;
+	
+	
+	
+	
+}

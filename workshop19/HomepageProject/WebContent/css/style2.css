@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+h1{
+	color:#919594; text-align: center;
+}
+
+table { border-collapse: collapse; margin: auto; }
+th { width: 80px; background-color: #ddd; }
+tr { border-top: 1px solid black; border-bottom: 1px solid black; }
+tr:nth-child(odd) { background-color: #e6f1ff; }
+tr:nth-child(even) { background-color: #f0f7ff; }
+tr:hover { background-color: #ffc5c2; cursor: pointer; }
+td { padding: 3px; }

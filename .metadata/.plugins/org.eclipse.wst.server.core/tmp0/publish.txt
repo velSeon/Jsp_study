@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 06 11:03:48 KST 2020
+org.eclipse.jst.jee.server\:01HTML=C\:\\JSP\\apache-tomcat-8.5.57-windows-x64\\apache-tomcat-8.5.57\\webapps\\01HTML
+org.eclipse.jst.jee.server\:ShopMiniMall_09_\uD68C\uC6D0\uC815\uBCF4\uC218\uC815=C\:\\JSP\\apache-tomcat-8.5.57-windows-x64\\apache-tomcat-8.5.57\\webapps\\ShopMiniMall_09_\uD68C\uC6D0\uC815\uBCF4\uC218\uC815

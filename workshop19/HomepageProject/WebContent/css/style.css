@@ -1,0 +1,40 @@
+@charset "UTF-8";
+#wrap{}
+#header{height : 405px; background: url(../img/index_book1.jpg) center top repeat-x}
+#contents{}
+
+
+#cont_nav {background-color: #f6fdff;display: none; }
+#cont_tit {background-color: :#EAE7FD;}
+#cont_tit2 {height: 250px; background: #808080;}
+#cont_cont {height: 90px; background: #808080;}
+#footer{height: 400px; background: #808080; }
+
+.container {width: 990px; margin: 0 auto; height: inherit; /* background: rgba(255,255,255,0.3);*/}
+
+
+.header .header-menu {text-align: right;}
+.header .header-menu a {color: #fff; padding: 10px; display: inline-block; }
+.header .header-menu a: hover{color: #666;}
+.header .header-tit {text-align:center;}
+.header .header-tit h1{font-size: 80px; color: #fff; margin-top:100px; font-weight:normal;}
+.header .header-tit a{font-size: 45px; color: #fff; margin-top:-5px; font-weight:normal;font-family: 'Sunflower', sans-serif;}
+
+.nav{overflow: hidden; padding: 30px 0;}
+/*.nav > div{float: left; width: 40%;}*/
+.nav > div h3{font-size: 25px; text-align: center; color: #25a2d0; margin-bottom: 4px;font-family: 'Jua', sans-serif;}
+/* .nav > div ol{overflow:hidden;} */
+.nav > div ol li{font-size:25px; text-align: center;font-family: 'Jua', sans-serif;}
+.nav > div.last ol li {width: 100%;}
+.nav > div ol li a: hover{text-decoration: underline;}
+
+.tit{position: relative;}
+.tit h2{font-size: 40px;text-align: center; padding: 5px 0; letter-spacing: 2px; color: #2c94c4; font-family: 'Jua', sans-serif; }
+.tit .btn {position: absolute; top: 3px; right: 0; width: 60px; height: 60px; background: url(../img/icon.png) no-repeat 0 -600px;}
+.tit .btn.on {background-position: 0 -660px;}
+
+.tit2 c{color: #dfdfdf; font-size:20px; text-align:center; font-family: 'Noto Sans KR', sans-serif;}
+
+.cont{font-size: 15px; font-family: 'Noto Sans KR', sans-serif; color: #d7d7d7;}
+.footer.blin
+.footer h2, b{color: #bfbfbf; margin-top: 3px; font-size:20px; text-align:center; font-family: 'Noto Sans KR', sans-serif;}

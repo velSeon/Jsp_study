@@ -1,0 +1,8 @@
+package com.service;
+
+public class Snippet {
+	public int memberUpdate(MemberDTO dto) {
+			
+		   }//end memberUpdate
+}
+

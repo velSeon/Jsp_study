@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\INSEON\비대면수업\수업 자료\2020-09-29\ShopMiniMall_03_회원가입"/>
+			<item value="C:\Users\acorn\Downloads\Workshop22\workshop22_1"/>
+			<item value="C:\Users\acorn\Downloads\06_요청위임2_forward"/>
+			<item value="C:\Users\acorn\Downloads\06_요청위임1_redirect"/>
+			<item value="C:\Users\acorn\Downloads\05 Servlet Filter\05_Servlet_Filter"/>
+			<item value="C:\INSEON\7일전 수업예제\01javascript"/>
+			<item value="C:\Users\acorn\Downloads\과제\웹페이지만들기\HomepageProject"/>
+			<item value="C:\Users\acorn\Downloads\0916\03_Servlet3_context_param"/>
+			<item value="C:\Users\acorn\Downloads\0916\03_Servlet2_init_param"/>
+			<item value="C:\Users\acorn\Downloads\JSPWorkshop13"/>
+			<item value="C:\Users\acorn\Downloads\JSPWorkshop08"/>
+			<item value="C:\INSEON\수업자료\새 폴더\2020-09-14"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
