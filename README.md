@@ -1,2 +1,2 @@
-# Java_study
-Java study project
+# JSP_study
+Jsp study project
